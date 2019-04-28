@@ -8,3 +8,4 @@ tools
                    / Base64
                    ）
 3. JSON 格式化,转义，中文转unicode
+4. host之间传送文件
